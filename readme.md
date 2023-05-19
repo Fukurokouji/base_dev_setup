@@ -1,4 +1,4 @@
-# What inside?
+# What's inside?
 ## Here are all the tools that I basically use in all my Python projects.
 Tools that are used: flake8 + isort + black + precommit hook
 
