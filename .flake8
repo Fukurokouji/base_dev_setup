@@ -6,5 +6,5 @@ max-line-length = 126
 max-complexity = 18
 extend_select = B9
 import-order-style = google
-exclude = .git,__pycache__,venv,readme.md
+exclude = .git, __pycache__, venv, readme.md
 inline-quotes="
