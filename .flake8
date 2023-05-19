@@ -1,0 +1,10 @@
+[flake8]
+ignore = ANN101, ANN102, ANN401, R505, R506, B902, B008
+per-file-ignores=
+    tests/conftest.py:ANN201, ANN001
+max-line-length = 126
+max-complexity = 18
+extend_select = B9
+import-order-style = google
+exclude = .git,__pycache__,venv,readme.md
+inline-quotes="
